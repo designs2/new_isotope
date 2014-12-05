@@ -1,4 +1,4 @@
-## Change some things to make isotope better editable and faster
+## Change some things to make isotope more editable and faster
 
 - want to implement a modular price function
 - re-structure some classes
@@ -16,4 +16,4 @@
 - add dca/tl_member_group.php -> add fields to chose baseprice which should be calculated for the FE an chose the default baseprice (e.g. Netto)
 - baseprices should replace tax classes and tax rate
 - one baseprice have to chose as default, this default baseprice is base for the other baseprices   
-  e.g. bp-def: netto = 100%, bp2 = brutto = netto + 19%, bp3 = brutto2 =netto + 7%
+  e.g. bp-def: netto = 100%, bp2 = brutto = netto + 19%, bp3 = brutto2 = netto + 7%
