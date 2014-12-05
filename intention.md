@@ -14,6 +14,12 @@
 - take baseprice as base of the Caliculation
 - rename baseprice to PriceByAmount
 - add dca/tl_member_group.php -> add fields to chose baseprice which should be calculated for the FE an chose the default baseprice (e.g. Netto)
+
+###TODOS
+
+
 - baseprices should replace tax classes and tax rate
 - one baseprice have to chose as default, this default baseprice is base for the other baseprices   
   e.g. bp-def: netto = 100%, bp2 = brutto = netto + 19%, bp3 = brutto2 = netto + 7%
+
+...
