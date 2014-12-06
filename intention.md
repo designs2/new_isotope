@@ -23,3 +23,6 @@
   e.g. bp-def: netto = 100%, bp2 = brutto = netto + 19%, bp3 = brutto2 = netto + 7%
 
 ...
+
+### Developer Docu like this would be nice
+http://api.drupalcommerce.org/api/Drupal%20Commerce/constants/DC
