@@ -13,6 +13,9 @@
 - add Isotope/Calculation/Callback.php to library
 - take baseprice as base of the Caliculation
 - rename tl_iso_baseprice to tl_iso_product_amounts for better seperating
+  - update dca-file (have to update db->table->name !!!
+  - update Modelfile 'BasePrice'to 'ProductAmounts' 
+
 - add dca/tl_member_group.php -> add fields to chose baseprice which should be calculated for the FE an chose the default baseprice (e.g. Netto)
 - add Isotope/Calculation.php to library 
 - add Isotope/Calculation/CalcProdPrices.php to library
