@@ -15,7 +15,7 @@
 - rename tl_iso_baseprice to tl_iso_product_amounts for better seperating
   - update dca-file **!!! have to update db->table->name**
   - update Modelfile 'BasePrice'to 'ProductAmounts'
-  - **!!! Have to update Transiflex key respectively renamed language files from tl_iso_baseprice to tl_iso_product_amount**
+  - **!!! Have to update Transiflex key respectively renamed language files from tl_iso_baseprice to tl_iso_product_amounts**
 
 - add dca/tl_member_group.php -> add fields to chose baseprice which should be calculated for the FE an chose the default baseprice (e.g. Netto)
 - add Isotope/Calculation.php to library 
