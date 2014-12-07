@@ -31,6 +31,12 @@
 - modify tl_iso_producttype
 - coding a baseprice widget
 - modify fe modules
+- add formula as select to dca of shipping, cart, discount and coupon
+  - ProdFormula.json,
+  - ProdSchipping.json,
+  - ProdCart.json, 
+  - ProdDiscountAndCoupon.json
+  
 - baseprices should replace tax classes and tax rate
 - one baseprice have to chose as default, this default baseprice is base for the other baseprices   
   e.g. bp-def: netto = 100%, bp2 = brutto = netto + 19%, bp3 = brutto2 = netto + 7%
