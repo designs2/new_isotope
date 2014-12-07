@@ -17,6 +17,7 @@
 - add Isotope/Calculation.php to library 
 - add Isotope/Calculation/CalcProdPrices.php to library
 - add Hooks $GLOBALS['ISO_HOOKS']['calcBasePriceBefore'][] ,$GLOBALS['ISO_HOOKS']['calcBasePriceAfter'][] to CalcProdPrices
+- register new Classes to autoload.php
 
 
 
