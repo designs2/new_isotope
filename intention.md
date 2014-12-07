@@ -32,10 +32,10 @@
 - coding a baseprice widget
 - modify fe modules
 - add formula as select to dca of shipping, cart, discount and coupon
-  - ProdFormula.json,
-  - ProdSchipping.json,
-  - ProdCart.json, 
-  - ProdDiscountAndCoupon.json
+  - Formula/Prod.json,
+  - Formula/Schipping.json,
+  - Formula/Cart.json, 
+  - Formula/DiscountAndCoupon.json
   
 - baseprices should replace tax classes and tax rate
 - one baseprice have to chose as default, this default baseprice is base for the other baseprices   
